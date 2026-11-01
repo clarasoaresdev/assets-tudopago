@@ -1,6 +1,8 @@
 # assets-tudopago
 
-fonte usada: poppins 
+fonte usada: poppins [https://fonts.google.com/specimen/Poppins]
+
+elementos visuals são do iconfy do figma [https://www.figma.com/community/plugin/735098390272716381/iconify]
 
 - titulo (tudoPago)
   
