@@ -15,7 +15,7 @@ fonte usada: poppins
 - frase de efeito kkkkkk
 
       tamanho: 24px
-      pespo: regular
+      peso: regular
   
 - subtitulos
   
